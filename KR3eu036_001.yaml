@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3eu036/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 醫宗金鑑·刺灸心法要訣
+  edition:
+    short: t
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eu036.xml
+hash: sha256:583e3b9b5846cafc6406c0500ec30d481ac431dc0f75f693fe09c745050b8ace
