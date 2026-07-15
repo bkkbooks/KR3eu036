@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eu036/v1
 canonical_location: https://kanripo.org/bkk/KR3eu036/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 醫宗金鑑·刺灸心法要訣
   identifiers:
@@ -21,4 +21,4 @@ assets:
     filename: KR3eu036_001.yaml
     hash: sha256:583e3b9b5846cafc6406c0500ec30d481ac431dc0f75f693fe09c745050b8ace
 table_of_contents: []
-hash: sha256:58a7b63616048fb265964519a9f52d5118974e8e2bb9c6156e4d4ed5b12fea66
+hash: sha256:c330e1f56b9e94b54a8858b2a2868ca742d6cf79e99fe31d1af9eac805f234cf
